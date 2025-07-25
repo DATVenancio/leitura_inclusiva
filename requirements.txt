@@ -1,0 +1,9 @@
+# Audiobook Reader Dependencies
+python-vlc==3.0.20123 # Note: Requires VLC media player to be installed on the system
+# On Ubuntu/Debian: sudo apt install vlc
+# On Windows: Download from https://www.videolan.org/vlc/
+# On macOS: brew install vlc
+
+# Optional: For better audio quality
+# numpy==1.24.3 
+sqlite3 == 3.50.3 
